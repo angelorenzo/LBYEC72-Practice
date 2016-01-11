@@ -34,6 +34,6 @@ void printNameCourse(){
 float computeCircleArea(float RO){
 	return PI * RO * RO;
 }
-```c
+```
 
 ![screenshot](https://github.com/angelorenzo/LBYEC72-Practice/blob/master/hello.png)
