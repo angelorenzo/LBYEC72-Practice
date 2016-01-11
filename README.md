@@ -24,7 +24,7 @@ int main (){
 	
 	return EXIT_SUCCESS;
 }
-
+https://github.com/angelorenzo/LBYEC72-Practice/blob/master/hello.png
 void printNameCourse(){
 	puts("\n RENZO OLAIS");
 	puts("\n Hello World");
