@@ -1,6 +1,6 @@
-this is my practice
+# this is my practice
 
-
+```c
 #include<stdio.h>
 #include<stdlib.h>
 
@@ -34,5 +34,6 @@ void printNameCourse(){
 float computeCircleArea(float RO){
 	return PI * RO * RO;
 }
+```c
 
-https://github.com/angelorenzo/LBYEC72-Practice/blob/master/hello.png
+![screenshot](https://github.com/angelorenzo/LBYEC72-Practice/blob/master/hello.png)
